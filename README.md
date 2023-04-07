@@ -1,6 +1,6 @@
 # exifkiller
-Easy multi-platform tool to remove all metadata (including EXIF) from images &amp; GIFs in bulk.
-This program supports (JPG, JPEG, PNG, BMP, GIF, ICO, PCX, TGA, TIF, TIFF, and WebP) in a selected directory using the Python Imaging Library (Pillow).
+Easy multi-platform tool (Windows/Mac/Linux) to remove all metadata (including EXIF) from images &amp; GIFs in bulk.
+This program supports JPG, JPEG, PNG, BMP, GIF, ICO, PCX, TGA, TIF, TIFF, and WebP file types in a selected directory using the Python Imaging Library (Pillow).
 
 # Installation
 - Head over to releases and install exifkiller.zip, this is standalone version made with Nuitka. 
